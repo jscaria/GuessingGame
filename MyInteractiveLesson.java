@@ -15,6 +15,6 @@ public class MyInteractiveLesson {
       int thisYear = 2015;     
       int yourAge = thisYear - yourBirthYear;
       
-      System.out.println(yourName + ", it seems like you are " + yourAge + " years old or going to turn " + yourAge + "this year!");
+      System.out.println(yourName + ", it seems like you are " + yourAge + " years old or going to turn " + yourAge + " this year!");
    }
 }

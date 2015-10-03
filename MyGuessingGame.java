@@ -1,5 +1,7 @@
 import java.util.*;
 
+// There's a great write up for this at http://www.java-made-easy.com/guessing-game.html.
+
 public class MyGuessingGame {
    public static void main(String[] args) {
       System.out.println("your name");
